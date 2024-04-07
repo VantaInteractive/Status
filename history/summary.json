@@ -58,18 +58,20 @@
     "url": "https://support.vantainteractive.com",
     "icon": "https://icons.duckduckgo.com/ip3/support.vantainteractive.com.ico",
     "slug": "vi-knowledge-base",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 110,
-    "timeDay": 78,
-    "timeWeek": 82,
-    "timeMonth": 110,
-    "timeYear": 110,
-    "dailyMinutesDown": {}
+    "time": 212,
+    "timeDay": 1062,
+    "timeWeek": 327,
+    "timeMonth": 212,
+    "timeYear": 212,
+    "dailyMinutesDown": {
+      "2024-04-07": 0
+    }
   },
   {
     "name": "VI Legal",
