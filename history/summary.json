@@ -5,17 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/vantainteractive.com.ico",
     "slug": "vi-website",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 118,
-    "timeDay": 117,
-    "timeWeek": 130,
-    "timeMonth": 135,
+    "timeDay": 169,
+    "timeWeek": 126,
+    "timeMonth": 137,
     "timeYear": 118,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-07": 19
+    }
   },
   {
     "name": "VI API",
@@ -23,17 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.vantainteractive.com.ico",
     "slug": "vi-api",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 121,
-    "timeDay": 148,
-    "timeWeek": 139,
-    "timeMonth": 141,
-    "timeYear": 121,
-    "dailyMinutesDown": {}
+    "uptimeYear": "99.99%",
+    "time": 122,
+    "timeDay": 175,
+    "timeWeek": 135,
+    "timeMonth": 145,
+    "timeYear": 122,
+    "dailyMinutesDown": {
+      "2024-04-07": 19
+    }
   },
   {
     "name": "VI Docs",
@@ -41,17 +45,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.vantainteractive.com.ico",
     "slug": "vi-docs",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 129,
-    "timeDay": 218,
-    "timeWeek": 149,
-    "timeMonth": 150,
+    "timeDay": 195,
+    "timeWeek": 147,
+    "timeMonth": 152,
     "timeYear": 129,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-07": 19
+    }
   },
   {
     "name": "VI Knowledge Base",
@@ -65,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 130,
-    "timeDay": 89,
-    "timeWeek": 114,
-    "timeMonth": 136,
+    "timeDay": 144,
+    "timeWeek": 113,
+    "timeMonth": 137,
     "timeYear": 130,
     "dailyMinutesDown": {
       "2024-04-07": 19
@@ -79,17 +85,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/legal.vantainteractive.com.ico",
     "slug": "vi-legal",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 117,
-    "timeDay": 134,
-    "timeWeek": 118,
-    "timeMonth": 137,
+    "timeDay": 122,
+    "timeWeek": 115,
+    "timeMonth": 138,
     "timeYear": 117,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-07": 19
+    }
   },
   {
     "name": "VI Status",
@@ -97,16 +105,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.vantainteractive.com.ico",
     "slug": "vi-status",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 114,
-    "timeDay": 141,
+    "timeDay": 142,
     "timeWeek": 111,
-    "timeMonth": 128,
+    "timeMonth": 127,
     "timeYear": 114,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-07": 19
+    }
   }
 ]
