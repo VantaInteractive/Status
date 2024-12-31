@@ -14,6 +14,8 @@ sites:
     url: https://legal.vantainteractive.com
   - name: VI Status
     url: https://status.vantainteractive.com
+  - name: Vanta Social
+    url: https://social.vantainteractive.com
 
 assignees:
   - AlexTECPlayz
