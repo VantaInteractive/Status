@@ -114,17 +114,19 @@
     "url": "https://social.vantainteractive.com",
     "icon": "https://icons.duckduckgo.com/ip3/social.vantainteractive.com.ico",
     "slug": "vanta-social",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 548,
-    "timeDay": 639,
-    "timeWeek": 554,
-    "timeMonth": 554,
-    "timeYear": 548,
-    "dailyMinutesDown": {}
+    "time": 553,
+    "timeDay": 707,
+    "timeWeek": 582,
+    "timeMonth": 561,
+    "timeYear": 553,
+    "dailyMinutesDown": {
+      "2025-02-08": 0
+    }
   }
 ]
