@@ -16,6 +16,10 @@ sites:
     url: https://status.vantainteractive.com
   - name: Vanta Social
     url: https://social.vantainteractive.com
+  - name: ATP Website
+    url: https://alextecplayz.com
+  - name: ATP Immich
+    url: https://immich.alextecplayz.com
 
 assignees:
   - AlexTECPlayz
