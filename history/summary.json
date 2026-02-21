@@ -22,18 +22,20 @@
     "url": "https://api.vantainteractive.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.vantainteractive.com.ico",
     "slug": "vi-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 174,
-    "timeDay": 393,
-    "timeWeek": 194,
-    "timeMonth": 191,
-    "timeYear": 181,
-    "dailyMinutesDown": {}
+    "time": 176,
+    "timeDay": 564,
+    "timeWeek": 261,
+    "timeMonth": 208,
+    "timeYear": 182,
+    "dailyMinutesDown": {
+      "2026-02-21": 0
+    }
   },
   {
     "name": "VI Docs",
@@ -50,7 +52,7 @@
     "timeDay": 289,
     "timeWeek": 200,
     "timeMonth": 173,
-    "timeYear": 173,
+    "timeYear": 174,
     "dailyMinutesDown": {}
   },
   {
@@ -104,7 +106,7 @@
     "timeDay": 242,
     "timeWeek": 159,
     "timeMonth": 172,
-    "timeYear": 153,
+    "timeYear": 154,
     "dailyMinutesDown": {}
   },
   {
@@ -113,7 +115,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/social.vantainteractive.com.ico",
     "slug": "vanta-social",
     "status": "up",
-    "uptime": "97.46%",
+    "uptime": "97.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
