@@ -130,7 +130,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/social.vantainteractive.com.ico",
     "slug": "vanta-social",
     "status": "up",
-    "uptime": "98.01%",
+    "uptime": "98.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -171,16 +171,16 @@
     "url": "https://immich.alextecplayz.com",
     "icon": "https://icons.duckduckgo.com/ip3/immich.alextecplayz.com.ico",
     "slug": "atp-immich",
-    "status": "up",
+    "status": "down",
     "uptime": "97.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.35%",
     "uptimeMonth": "96.34%",
     "uptimeYear": "97.73%",
     "time": 587,
-    "timeDay": 664,
-    "timeWeek": 485,
-    "timeMonth": 506,
+    "timeDay": 650,
+    "timeWeek": 500,
+    "timeMonth": 510,
     "timeYear": 587,
     "dailyMinutesDown": {
       "2026-03-14": 568,
@@ -195,7 +195,8 @@
       "2026-05-14": 7,
       "2026-06-05": 1383,
       "2026-06-04": 54,
-      "2026-06-17": 166
+      "2026-06-17": 166,
+      "2026-06-20": 0
     }
   }
 ]
