@@ -171,16 +171,16 @@
     "url": "https://immich.alextecplayz.com",
     "icon": "https://icons.duckduckgo.com/ip3/immich.alextecplayz.com.ico",
     "slug": "atp-immich",
-    "status": "down",
-    "uptime": "97.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "97.97%",
+    "status": "up",
+    "uptime": "97.85%",
+    "uptimeDay": "68.59%",
+    "uptimeWeek": "95.51%",
+    "uptimeMonth": "98.80%",
+    "uptimeYear": "97.85%",
     "time": 584,
-    "timeDay": 373,
-    "timeWeek": 549,
-    "timeMonth": 611,
+    "timeDay": 422,
+    "timeWeek": 546,
+    "timeMonth": 608,
     "timeYear": 584,
     "dailyMinutesDown": {
       "2026-03-14": 568,
@@ -200,7 +200,7 @@
       "2026-06-26": 167,
       "2026-07-03": 268,
       "2026-07-12": 73,
-      "2026-08-05": 0
+      "2026-08-05": 452
     }
   }
 ]
